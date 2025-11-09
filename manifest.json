@@ -1,6 +1,6 @@
 {
-    "name": "speechmate_admin_web",
-    "short_name": "speechmate_admin_web",
+    "name": "Presently Admin",
+    "short_name": "Presently Admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -33,3 +33,4 @@
         }
     ]
 }
+
